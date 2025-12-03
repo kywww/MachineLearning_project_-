@@ -1,0 +1,18 @@
+# Python 캐시 및 임시 파일
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 가상환경
+venv/
+env/
+.venv/
+
+# 파이썬 패키지 설치 파일
+*.egg-info/
+dist/
+build/
+
+# IDE 관련
+.vscode/
+.idea/
